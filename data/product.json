@@ -1,0 +1,25 @@
+[{
+    "p_id":1,
+    "p_name":"saree",
+    "p_color":"pink",
+    "p_prize":"600",
+    "p_quantity":"20",
+    "p_brand":"sumitra"
+},
+{
+    "p_id":2,
+    "p_name":"salwar",
+    "p_color":"pink",
+    "p_prize":"700",
+    "p_quantity":"5",
+    "p_brand":"RP Creation"
+},
+{
+    "p_id":3,
+    "p_name":"logn gown",
+    "p_color":"pink",
+    "p_prize":"700",
+    "p_quantity":"20",
+    "p_brand":"newDD Creation"
+}
+]

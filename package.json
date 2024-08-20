@@ -1,0 +1,14 @@
+{
+  "name": "node-js-practice",
+  "version": "1.0.0",
+  "description": "practice of node JS",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "parthavi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
