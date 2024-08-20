@@ -34,7 +34,7 @@ http.createServer((req,res)=>{
             }
         })
 
-        // console.log("-----",parseURL);
+        // console.log("-----",req.url.query);
         res.end();
         
     }
